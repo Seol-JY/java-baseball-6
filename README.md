@@ -1,3 +1,5 @@
+### PR 바로가기: https://github.com/woowacourse-precourse/java-baseball-6/pull/150  
+
 # 미션 - 숫자 야구
 
 ## 🔍 진행 방식
